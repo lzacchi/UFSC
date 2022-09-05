@@ -1,0 +1,6 @@
+[submodule "INE5418"]
+	path = INE5418
+	url = https://github.com/lzacchi/INE5418
+[submodule "INE5424"]
+	path = INE5424
+	url = git@github.com:lzacchi/INE5424.git
