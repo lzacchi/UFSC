@@ -1,0 +1,60 @@
+[submodule "EEL5105"]
+	path = EEL5105
+	url = git@github.com:lzacchi/EEL5105
+[submodule "INE5202"]
+	path = INE5202
+	url = git@github.com:lzacchi/INE5202
+[submodule "INE5404"]
+	path = INE5404
+	url = git@github.com:lzacchi/INE5404
+[submodule "INE5406"]
+	path = INE5406
+	url = git@github.com:lzacchi/INE5406
+[submodule "INE5408"]
+	path = INE5408
+	url = git@github.com:lzacchi/INE5408
+[submodule "INE5410"]
+	path = INE5410
+	url = git@github.com:lzacchi/INE5410
+[submodule "INE5411"]
+	path = INE5411
+	url = git@github.com:lzacchi/INE5411
+[submodule "INE5412"]
+	path = INE5412
+	url = git@github.com:lzacchi/INE5412
+[submodule "INE5413"]
+	path = INE5413
+	url = git@github.com:lzacchi/INE5413
+[submodule "INE5416"]
+	path = INE5416
+	url = git@github.com:lzacchi/INE5416
+[submodule "INE5418"]
+	path = INE5418
+	url = git@github.com:lzacchi/INE5418
+[submodule "INE5420"]
+	path = INE5420
+	url = git@github.com:lzacchi/INE5420
+[submodule "INE5424"]
+	path = INE5424
+	url = git@github.com:lzacchi/INE5424
+[submodule "INE5426"]
+	path = INE5426
+	url = git@github.com:lzacchi/INE5426.git
+[submodule "INE5427"]
+	path = INE5427
+	url = git@github.com:lzacchi/INE5427.git
+[submodule "INE5429"]
+	path = INE5429
+	url = git@github.com:lzacchi/INE5429.git
+[submodule "INE5430"]
+	path = INE5430
+	url = git@github.com:lzacchi/INE5430.git
+[submodule "INE5431"]
+	path = INE5431
+	url = git@github.com:lzacchi/INE5431.git
+[submodule "INE5646"]
+	path = INE5646
+	url = git@github.com:lzacchi/INE5646.git
+[submodule "tcc"]
+	path = tcc
+	url = git@github.com:lzacchi/tcc.git
